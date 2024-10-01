@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sam2439
-- 👀 I’m interested in ... Web developing
-- 🌱 I’m currently learning ... Wordpress
+- 👀 I’m interested in ... Electronics
+- 🌱 I’m currently learning ... micro-controllers
 - 📫 How to reach me ... sameer240309@gmail.com
 
 <!---
